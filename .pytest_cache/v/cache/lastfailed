@@ -1,0 +1,7 @@
+{
+  "Test_Lab2.py": true,
+  "Test_bmi.py::test_bmi_normal_weight": true,
+  "Test_bmi.py::test_bmi_overweight": true,
+  "Test_bmi.py::test_bmi_under_weight": true,
+  "Test_bmi.py": true
+}

@@ -1,0 +1,19 @@
+[
+  "Lab2/Test_Lab2.py::test_calc_average",
+  "Lab2/Test_Lab2.py::test_find_min_max",
+  "Lab2/Test_Lab2.py::test_median_temperature",
+  "Test_Lab3.py::test_bubble_sort_REQ03",
+  "Test_Lab3.py::test_bubble_sort_REQ04",
+  "Test_Lab3.py::test_bubble_sort_REQ05",
+  "Test_Lab3.py::test_bubble_sort_ascending",
+  "Test_Lab3.py::test_bubble_sort_descending",
+  "Test_Lab3.py::test_bubble_sort_invalid",
+  "Test_bmi.py::test_bmi_normal_weight",
+  "Test_bmi.py::test_bmi_overweight",
+  "Test_bmi.py::test_bmi_under_weight",
+  "test_employee_info.py::test_calulate_average_salary",
+  "test_employee_info.py::test_get_employees_by_age_range",
+  "test_employee_info.py::test_get_employees_by_dept",
+  "test_price_info.py::test_cost_of_fruit",
+  "test_price_info.py::test_cost_shopping"
+]
